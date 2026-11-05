@@ -1,1 +1,9 @@
-{"applicationId":"tv.tltv.next","versionCode":1,"versionName":"0.1.0","apkUrl":"https://github.com/dantesat/tltv-next-updates/releases/download/v0.1.0/TLTVNext.apk","sha256":"b03b1c190fc4cb43912592d4a41240b41a312e099f83894c4ebc9be8233bb47d","mandatory":false,"notes":"Primera version de TLTV Next"}
+{
+    "applicationId":  "tv.tltv.next",
+    "versionCode":  2,
+    "versionName":  "0.2.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.2.0/TLTVNext.apk",
+    "sha256":  "d20482023ae8b71844f0690c5180155f44b960509a4faf23f147a653770a2b6d",
+    "mandatory":  false,
+    "notes":  "Novedades:\n• Búsqueda mucho más rápida, separada en Películas, Series y Canales\n• Cambia de canal con ▲▼ sin salir del reproductor\n• Reconexión automática si se corta la señal\n• Nueva sección Cuenta: vencimiento y buscar actualización\n• Menú lateral más visible con el control\n• Arreglo: el catálogo de películas no cargaba en algunos equipos"
+}
