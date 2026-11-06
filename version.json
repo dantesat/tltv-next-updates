@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  5,
-    "versionName":  "0.4.1",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.4.1/TLTVNext.apk",
-    "sha256":  "947a7bc4cdedb004a877960aa8701edd33ef668e7034b8c9b7304c08788f8748",
+    "versionCode":  6,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.5.0/TLTVNext.apk",
+    "sha256":  "b3ba1ad192b0fbc2398b51ddc65d9333ae18745a182c39d3c281447de34c3944",
     "mandatory":  false,
-    "notes":  "- La pantalla ya no se apaga mientras ves un video en teléfono o tablet.\n- El nombre del episodio solo aparece al darle OK (antes se quedaba fijo al pasar solo al siguiente)."
+    "notes":  "- Estadísticas en vivo en PPV: en partidos de fútbol y de NFL aparece el botón \"Estadísticas\" (▶ en el control).\n- Fútbol: marcador, jugadas, estadísticas, alineaciones y tabla.\n- NFL: marcador por cuarto, anotaciones, estadísticas y tabla de la división."
 }
