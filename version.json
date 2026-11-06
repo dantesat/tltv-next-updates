@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  6,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.5.0/TLTVNext.apk",
-    "sha256":  "b3ba1ad192b0fbc2398b51ddc65d9333ae18745a182c39d3c281447de34c3944",
+    "versionCode":  7,
+    "versionName":  "0.6.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.6.0/TLTVNext.apk",
+    "sha256":  "d49914ee95af4bfd95bc26e5f6e0f0bb75693bdc3cf584121ed1a7208ba70f50",
     "mandatory":  false,
-    "notes":  "- Estadísticas en vivo en PPV: en partidos de fútbol y de NFL aparece el botón \"Estadísticas\" (▶ en el control).\n- Fútbol: marcador, jugadas, estadísticas, alineaciones y tabla.\n- NFL: marcador por cuarto, anotaciones, estadísticas y tabla de la división."
+    "notes":  "- Estadísticas también para NBA, NHL y béisbol (MLB, LMP, LMB) en PPV: marcador por periodo o entrada, goles y castigos en NHL, estadísticas y tabla.\n- Logos de equipos que antes no cargaban."
 }
