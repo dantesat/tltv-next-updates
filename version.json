@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  10,
-    "versionName":  "0.9.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.0/TLTVNext.apk",
-    "sha256":  "f13afe947de5ea7e4cf922d9e345d8197152f0c1f86938ab6773a7f3975a3a7d",
+    "versionCode":  11,
+    "versionName":  "0.9.1",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.1/TLTVNext.apk",
+    "sha256":  "592f95d265e7bbbe277ad8da8d8011a8ece3da6ad45eff2816e9a9c9704b6e44",
     "mandatory":  false,
-    "notes":  "- Control parental: lo que está en una categoría bloqueada ya tampoco sale en \"Mi lista\" ni en \"Continuar viendo\".\n- Cuenta: al cerrar la ventana del PIN, la selección se queda en el control parental en vez de saltar al menú."
+    "notes":  "- Buscador en Canales, Películas y Series: toca \"🔍 Buscar\" al principio de las categorías y escribe; busca en toda la sección.\n- Al salir de un canal, partido o película regresas a la misma categoría y al mismo título donde estabas (también en PPV y en la guía).\n- Atrás ya no cierra la app: primero te lleva al menú y, si vuelves a darle, te pregunta si quieres salir."
 }
