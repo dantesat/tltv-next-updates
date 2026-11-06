@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  4,
-    "versionName":  "0.4.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.4.0/TLTVNext.apk",
-    "sha256":  "8855159e756421fe90dadf8fc880ff4dcefad0ed44be11627d53b8324a4913b9",
+    "versionCode":  5,
+    "versionName":  "0.4.1",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.4.1/TLTVNext.apk",
+    "sha256":  "947a7bc4cdedb004a877960aa8701edd33ef668e7034b8c9b7304c08788f8748",
     "mandatory":  false,
-    "notes":  "- El siguiente episodio empieza solo también desde \"Continuar viendo\".\n- Recuerda el idioma de audio y subtítulos que elegiste para las siguientes películas y episodios.\n- Al darle OK se ve la serie, temporada y episodio que estás viendo."
+    "notes":  "- La pantalla ya no se apaga mientras ves un video en teléfono o tablet.\n- El nombre del episodio solo aparece al darle OK (antes se quedaba fijo al pasar solo al siguiente)."
 }
