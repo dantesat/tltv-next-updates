@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  12,
-    "versionName":  "0.9.2",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.2/TLTVNext.apk",
-    "sha256":  "67becd7ca3ff921ddbaaee09f2da4184cb56f8d005c6676b834644d96e28efe8",
+    "versionCode":  13,
+    "versionName":  "0.10.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.0/TLTVNext.apk",
+    "sha256":  "570abcc81e1552d0f43632840bffb4ce6844d4af038ad66d4455e1e21ca99b8a",
     "mandatory":  false,
-    "notes":  "- Buscador también en PPV: toca \"🔍 Buscar\" y escribe el equipo o el evento; busca en todas las categorías de PPV."
+    "notes":  "- Abre mucho más rápido: el catálogo se guarda en el equipo y ya no se descarga completo cada vez que entras.\n- En vivo: con el cartel del canal en pantalla, OK abre la lista de canales; ◀ regresa al canal anterior; con un control que tenga números, escribe el número del canal.\n- Reportes de errores para mejorar la app (no se envía tu contraseña)."
 }
