@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  11,
-    "versionName":  "0.9.1",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.1/TLTVNext.apk",
-    "sha256":  "592f95d265e7bbbe277ad8da8d8011a8ece3da6ad45eff2816e9a9c9704b6e44",
+    "versionCode":  12,
+    "versionName":  "0.9.2",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.2/TLTVNext.apk",
+    "sha256":  "67becd7ca3ff921ddbaaee09f2da4184cb56f8d005c6676b834644d96e28efe8",
     "mandatory":  false,
-    "notes":  "- Buscador en Canales, Películas y Series: toca \"🔍 Buscar\" al principio de las categorías y escribe; busca en toda la sección.\n- Al salir de un canal, partido o película regresas a la misma categoría y al mismo título donde estabas (también en PPV y en la guía).\n- Atrás ya no cierra la app: primero te lleva al menú y, si vuelves a darle, te pregunta si quieres salir."
+    "notes":  "- Buscador también en PPV: toca \"🔍 Buscar\" y escribe el equipo o el evento; busca en todas las categorías de PPV."
 }
