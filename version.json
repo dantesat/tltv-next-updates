@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  3,
-    "versionName":  "0.3.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.3.0/TLTVNext.apk",
-    "sha256":  "486ae48e6d3c84670efa186c829f77565fa03ba383a98d3f01c9ac0641c9c17f",
+    "versionCode":  4,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.4.0/TLTVNext.apk",
+    "sha256":  "8855159e756421fe90dadf8fc880ff4dcefad0ed44be11627d53b8324a4913b9",
     "mandatory":  false,
-    "notes":  "Novedades:\n• Siguiente episodio automático al terminar uno (OK = ver ya, Atrás = cancelar)\n• Ficha de serie con sinopsis, año, reparto y botón Ver / Continuar\n• Los episodios ya se recorren bien con el control\n• Barra del reproductor con el control: pausa, adelantar/atrasar 10 s, subtítulos y audio\n• Inicio carga más rápido: cada fila aparece en cuanto está lista"
+    "notes":  "- El siguiente episodio empieza solo también desde \"Continuar viendo\".\n- Recuerda el idioma de audio y subtítulos que elegiste para las siguientes películas y episodios.\n- Al darle OK se ve la serie, temporada y episodio que estás viendo."
 }
