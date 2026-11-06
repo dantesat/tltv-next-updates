@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  9,
-    "versionName":  "0.8.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.8.0/TLTVNext.apk",
-    "sha256":  "1fc8db1747598cb8d3e53e72d3469d48c4269c35fe71c6768b627a11e15ddd46",
+    "versionCode":  10,
+    "versionName":  "0.9.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.9.0/TLTVNext.apk",
+    "sha256":  "f13afe947de5ea7e4cf922d9e345d8197152f0c1f86938ab6773a7f3975a3a7d",
     "mandatory":  false,
-    "notes":  "- Guía de canales: en Canales toca \"☰ Guía\" para ver qué pasan ahora y en las próximas horas en cada canal (▶◀ para moverte en el horario, OK para ver el canal).\n- Control parental: en Cuenta pon un PIN de 4 números; las categorías para adultos y las que bloquees (manteniendo OK sobre ellas) piden el PIN y no salen en Inicio, Todas ni Buscar.\n- Si se va el internet, el canal espera y vuelve solo en cuanto regresa la señal.\n- Estadísticas de PPV: si el canal no dice qué partido es, se busca con lo que dice la guía.\n- Buscar: después de escribir, \"Siguiente\" o ▼ te bajan directo a los resultados."
+    "notes":  "- Control parental: lo que está en una categoría bloqueada ya tampoco sale en \"Mi lista\" ni en \"Continuar viendo\".\n- Cuenta: al cerrar la ventana del PIN, la selección se queda en el control parental en vez de saltar al menú."
 }
