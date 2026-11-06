@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  7,
-    "versionName":  "0.6.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.6.0/TLTVNext.apk",
-    "sha256":  "d49914ee95af4bfd95bc26e5f6e0f0bb75693bdc3cf584121ed1a7208ba70f50",
+    "versionCode":  8,
+    "versionName":  "0.7.0",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.7.0/TLTVNext.apk",
+    "sha256":  "211885d532f2a44b23187f186b74966c2b50e44b5c0f15f86a0da9d661945b9d",
     "mandatory":  false,
-    "notes":  "- Estadísticas también para NBA, NHL y béisbol (MLB, LMP, LMB) en PPV: marcador por periodo o entrada, goles y castigos en NHL, estadísticas y tabla.\n- Logos de equipos que antes no cargaban."
+    "notes":  "- Series: cada capítulo con miniatura, nombre, duración y sinopsis en español."
 }
