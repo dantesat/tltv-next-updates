@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  13,
-    "versionName":  "0.10.0",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.0/TLTVNext.apk",
-    "sha256":  "570abcc81e1552d0f43632840bffb4ce6844d4af038ad66d4455e1e21ca99b8a",
+    "versionCode":  14,
+    "versionName":  "0.10.1",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.1/TLTVNext.apk",
+    "sha256":  "3263b0420898882ce71c0b57f639e8889146fbf42447b3cdd8bbd9ac92976c66",
     "mandatory":  false,
-    "notes":  "- Abre mucho más rápido: el catálogo se guarda en el equipo y ya no se descarga completo cada vez que entras.\n- En vivo: con el cartel del canal en pantalla, OK abre la lista de canales; ◀ regresa al canal anterior; con un control que tenga números, escribe el número del canal.\n- Reportes de errores para mejorar la app (no se envía tu contraseña)."
+    "notes":  "- Los títulos de los partidos ya no salen con símbolos raros (\"â½\" ahora es ⚽ y \"◘\" ahora es \"·\").\n- Al volver de un canal, película o serie, Inicio te deja en el mismo título donde estabas.\n- Mantén OK sobre algo de \"Continuar viendo\" para quitarlo de la fila."
 }
