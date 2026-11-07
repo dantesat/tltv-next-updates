@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  17,
-    "versionName":  "0.10.4",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.4/TLTVNext.apk",
-    "sha256":  "9d016c63b42b0b28d427a9a1fef989090ba5d5e6e64941a6bf76aa97d7c6619b",
+    "versionCode":  18,
+    "versionName":  "0.10.5",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.5/TLTVNext.apk",
+    "sha256":  "1a7012fe6010be0663faf8244983e317308ba89f2931ca9a2323efa0127ef4cb",
     "mandatory":  false,
-    "notes":  "- Cuenta ahora muestra toda la información de tu suscripción: estado, vencimiento con hora, si es de prueba, conexiones activas, conexiones máximas y fecha de creación (consultado al momento con el proveedor)."
+    "notes":  "- La barra de búsqueda queda fija arriba en Canales, Películas, Series y PPV: le das OK (o la tocas) y escribes."
 }
