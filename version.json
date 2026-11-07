@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  19,
-    "versionName":  "0.10.6",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.6/TLTVNext.apk",
-    "sha256":  "c4db0d4e9e194a40fc394d17044efb5f8a10ad177677cb243560184a804dc4b4",
+    "versionCode":  20,
+    "versionName":  "0.10.7",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.7/TLTVNext.apk",
+    "sha256":  "40cf3defb5dfb711ef8722dee1aeb935ace984c69e12d6f29b9920dc4339a6e1",
     "mandatory":  false,
-    "notes":  "- Nuevo logo: Tu Latino Tv (LTV) en el ícono de la app, el banner de la tele, el menú y la pantalla de inicio de sesión."
+    "notes":  "- Colores de la app con la marca Tu Latino Tv: el azul y el amarillo del logo en botones, selección y etiquetas.\n- El logo del menú se ve un poco más grande."
 }
