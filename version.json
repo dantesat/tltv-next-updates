@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  23,
-    "versionName":  "0.11.1",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.1/TLTVNext.apk",
-    "sha256":  "e7f1ad7c839ea98d53593ef32f16ff7eb2c8a8be6a080dd664d3f7e1c83d8201",
+    "versionCode":  24,
+    "versionName":  "0.11.2",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.2/TLTVNext.apk",
+    "sha256":  "cacc07f5e477677a1d8377bd7a199d04d5dd1bbc05437fb55d6d8ee27d76a7ed",
     "mandatory":  false,
-    "notes":  "- Inicio de sesión más fácil en equipos onn y Google TV: el botón del teclado ya te hace entrar, hay un botón ACCEDER junto a la contraseña y con la flecha abajo llegas al botón.\n- TLTV Next ya está conectada al sistema de TLTV: el administrador ve tu equipo y te puede mandar avisos."
+    "notes":  "- Abren canales que antes fallaban con \"No se pudo reproducir (302)\" (por ejemplo Telemundo New York y Multimedios Puebla)."
 }
