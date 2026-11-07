@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  24,
-    "versionName":  "0.11.2",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.2/TLTVNext.apk",
-    "sha256":  "cacc07f5e477677a1d8377bd7a199d04d5dd1bbc05437fb55d6d8ee27d76a7ed",
+    "versionCode":  25,
+    "versionName":  "0.11.3",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.3/TLTVNext.apk",
+    "sha256":  "5080122cbbe3ffd7b2c2cac1cd3240ef55ff6c252c4f6349cf00e7b6f9fd00d8",
     "mandatory":  false,
-    "notes":  "- Abren canales que antes fallaban con \"No se pudo reproducir (302)\" (por ejemplo Telemundo New York y Multimedios Puebla)."
+    "notes":  "- Fire TV: al volver de un canal ya no aparece el teclado del buscador.\n- Celular: el video se ve en horizontal y gira con el teléfono."
 }
