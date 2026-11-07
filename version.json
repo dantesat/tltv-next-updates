@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  25,
-    "versionName":  "0.11.3",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.3/TLTVNext.apk",
-    "sha256":  "5080122cbbe3ffd7b2c2cac1cd3240ef55ff6c252c4f6349cf00e7b6f9fd00d8",
+    "versionCode":  26,
+    "versionName":  "0.11.4",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.4/TLTVNext.apk",
+    "sha256":  "7afbcd61f678b5d1cbeda9a9dfe644fc60cf3f2ac96f39e4f6ff4d7b86d88673",
     "mandatory":  false,
-    "notes":  "- Fire TV: al volver de un canal ya no aparece el teclado del buscador.\n- Celular: el video se ve en horizontal y gira con el teléfono."
+    "notes":  "- Celular acostado: el menú de la izquierda ya se puede bajar para llegar a PPV y Cuenta."
 }
