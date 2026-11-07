@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  21,
-    "versionName":  "0.10.8",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.8/TLTVNext.apk",
-    "sha256":  "15caa2063707eee53fda1cb27807757fa36862c2c49775da89f608b9a5057554",
+    "versionCode":  23,
+    "versionName":  "0.11.1",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.1/TLTVNext.apk",
+    "sha256":  "e7f1ad7c839ea98d53593ef32f16ff7eb2c8a8be6a080dd664d3f7e1c83d8201",
     "mandatory":  false,
-    "notes":  "- Canales que se quedaban cargando o daban \"El proveedor rechazó la conexión (403)\" ahora abren: la app prueba otro formato y otro servidor del proveedor.\n- Si el proveedor manda un canal sin su audio (como pasó con Test sv), la app busca el audio en otro servidor y, si no lo encuentra, muestra el video con un aviso.\n- La app recuerda esos canales, así la próxima vez abren directo."
+    "notes":  "- Inicio de sesión más fácil en equipos onn y Google TV: el botón del teclado ya te hace entrar, hay un botón ACCEDER junto a la contraseña y con la flecha abajo llegas al botón.\n- TLTV Next ya está conectada al sistema de TLTV: el administrador ve tu equipo y te puede mandar avisos."
 }
