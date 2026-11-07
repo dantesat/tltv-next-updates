@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  15,
-    "versionName":  "0.10.2",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.2/TLTVNext.apk",
-    "sha256":  "37fd76a1cba2b1336096328924fce8e1a43a77cb28a40d662811aa9b61733684",
+    "versionCode":  17,
+    "versionName":  "0.10.4",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.10.4/TLTVNext.apk",
+    "sha256":  "9d016c63b42b0b28d427a9a1fef989090ba5d5e6e64941a6bf76aa97d7c6619b",
     "mandatory":  false,
-    "notes":  "- Los logos de los canales se ven completos y nítidos (antes salían recortados y con mucho zoom)."
+    "notes":  "- Cuenta ahora muestra toda la información de tu suscripción: estado, vencimiento con hora, si es de prueba, conexiones activas, conexiones máximas y fecha de creación (consultado al momento con el proveedor)."
 }
