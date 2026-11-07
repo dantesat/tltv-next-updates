@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  27,
-    "versionName":  "0.11.5",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.5/TLTVNext.apk",
-    "sha256":  "6efd657526c70bd48f629437d6cc850553550ce836ed4f3fe576c3d5e1622e81",
+    "versionCode":  28,
+    "versionName":  "0.11.6",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.6/TLTVNext.apk",
+    "sha256":  "4c71e23b0032f8541f3f9182fcd889df9d12c4014beca186f0004cb090a62797",
     "mandatory":  false,
-    "notes":  "- PPV ya no muestra las categorías 24/7 (series y caricaturas todo el día); solo eventos.\n- Celular: la app ya no queda debajo de la hora ni de los botones del teléfono, y el video se ve en pantalla completa.\n- Los canales muestran una sola etiqueta EN VIVO.\n- Canales ya no repite los eventos: los eventos y PPV están solo en la sección PPV."
+    "notes":  "- PPV: \"24/7 Vip Usa\" y demás categorías 24/7 ya no salen en PPV; están en Canales."
 }
