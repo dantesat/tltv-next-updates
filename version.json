@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  28,
-    "versionName":  "0.11.6",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.6/TLTVNext.apk",
-    "sha256":  "4c71e23b0032f8541f3f9182fcd889df9d12c4014beca186f0004cb090a62797",
+    "versionCode":  29,
+    "versionName":  "0.11.7",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.7/TLTVNext.apk",
+    "sha256":  "b18a2e09d9a7749d58df5c2beced35a774a94d38d0788c31ce53bb7865dae6ef",
     "mandatory":  false,
-    "notes":  "- PPV: \"24/7 Vip Usa\" y demás categorías 24/7 ya no salen en PPV; están en Canales."
+    "notes":  "- Historial: los canales que ves salen en Inicio (\"Canales vistos hace poco\") y en Canales (\"Recientes\").\n- Las horas de los eventos (por ejemplo \"14:00 ET\") ahora salen en tu hora."
 }
