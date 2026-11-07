@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  29,
-    "versionName":  "0.11.7",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.7/TLTVNext.apk",
-    "sha256":  "b18a2e09d9a7749d58df5c2beced35a774a94d38d0788c31ce53bb7865dae6ef",
+    "versionCode":  30,
+    "versionName":  "0.11.8",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.8/TLTVNext.apk",
+    "sha256":  "6137ad7346a4a1350c99b90125f4440fef25955c599c46bcc7fb5c0b3c74b1fb",
     "mandatory":  false,
-    "notes":  "- Historial: los canales que ves salen en Inicio (\"Canales vistos hace poco\") y en Canales (\"Recientes\").\n- Las horas de los eventos (por ejemplo \"14:00 ET\") ahora salen en tu hora."
+    "notes":  "- Sonido en todos los equipos: los canales con audio Dolby (AC-3) o MP2 ya se oyen en onn, Google TV y demás equipos que no traían ese audio."
 }
