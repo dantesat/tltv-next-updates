@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  31,
-    "versionName":  "0.11.9",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.9/TLTVNext.apk",
-    "sha256":  "812170b0b5282ec420fc4658ea4d0de65173c0d3d84eee8b626002e248b6fd3d",
+    "versionCode":  32,
+    "versionName":  "0.11.10",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.10/TLTVNext.apk",
+    "sha256":  "21b9ce50cc0e711452f0d750a20d5b5f1b1fdf64d17e2521ac8378d13a91a569",
     "mandatory":  false,
-    "notes":  "- Perfil infantil (en Cuenta): deja solo caricaturas, películas y canales para niños, sin PPV. Para salir se pide el PIN.\n- Los canales que no arrancan se recuperan más rápido: a los 6 segundos se prueba otra forma de abrirlos (antes 12).\n- Las actualizaciones nuevas llegan en alrededor de un minuto (antes hasta 5)."
+    "notes":  "- Cuando un canal no abre porque tu cuenta ya está usando todas sus pantallas, ahora lo dice claro (por ejemplo \"2 de 2\") en lugar de \"El proveedor rechazó la conexión\".\n- Si la suscripción venció o está suspendida, también lo avisa así."
 }
