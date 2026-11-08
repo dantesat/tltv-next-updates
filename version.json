@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  30,
-    "versionName":  "0.11.8",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.8/TLTVNext.apk",
-    "sha256":  "6137ad7346a4a1350c99b90125f4440fef25955c599c46bcc7fb5c0b3c74b1fb",
+    "versionCode":  31,
+    "versionName":  "0.11.9",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.9/TLTVNext.apk",
+    "sha256":  "812170b0b5282ec420fc4658ea4d0de65173c0d3d84eee8b626002e248b6fd3d",
     "mandatory":  false,
-    "notes":  "- Sonido en todos los equipos: los canales con audio Dolby (AC-3) o MP2 ya se oyen en onn, Google TV y demás equipos que no traían ese audio."
+    "notes":  "- Perfil infantil (en Cuenta): deja solo caricaturas, películas y canales para niños, sin PPV. Para salir se pide el PIN.\n- Los canales que no arrancan se recuperan más rápido: a los 6 segundos se prueba otra forma de abrirlos (antes 12).\n- Las actualizaciones nuevas llegan en alrededor de un minuto (antes hasta 5)."
 }
