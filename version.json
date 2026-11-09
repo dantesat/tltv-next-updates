@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  34,
-    "versionName":  "0.11.12",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.12/TLTVNext.apk",
-    "sha256":  "dc9ac8566d88261b8068f71006cbd24fe6872ba4d42d913e7994dec45f48b5fb",
+    "versionCode":  35,
+    "versionName":  "0.11.13",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.13/TLTVNext.apk",
+    "sha256":  "255deadb9a0d66e4d2e54296ec0d61fec746e72b1a16e7e26343edc70983a49d",
     "mandatory":  false,
-    "notes":  "- Fichas de películas y series: reparto completo con fotos y \"Películas similares\" que sí tenemos en TLTV.\n- Toca un actor para ver su foto, biografía y todas sus películas y series que hay en TLTV."
+    "notes":  "- Series: cada capítulo que terminas de ver ahora lleva un check verde de \"Visto\", como en la TLTV anterior.\n- El botón VER de la serie ya te lleva al siguiente capítulo que te toca."
 }
