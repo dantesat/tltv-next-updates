@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  44,
-    "versionName":  "0.11.22",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.22/TLTVNext.apk",
-    "sha256":  "422a50d4a816147767fe822e86e1d57334b0521d6c273a129b2711ff9c2777d5",
+    "versionCode":  45,
+    "versionName":  "0.11.23",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.23/TLTVNext.apk",
+    "sha256":  "de01399934f1e3fe447577bb7dcf9e9673578f8259b76270a8522aaa194f5a85",
     "mandatory":  false,
-    "notes":  "- Mejora: la app usa mejor la memoria y ya no se cierra sola en Fire TV y equipos con poca memoria."
+    "notes":  "- Nuevo orden del menú: Buscar arriba, PPV junto a Canales y Cuenta al final. Series con ícono nuevo."
 }
