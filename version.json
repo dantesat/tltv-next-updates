@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  36,
-    "versionName":  "0.11.14",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.14/TLTVNext.apk",
-    "sha256":  "72490533ebd2d42815ffdcdcd28c467007d1eaad2db525a2d23655d7f60d20b5",
+    "versionCode":  38,
+    "versionName":  "0.11.16",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.16/TLTVNext.apk",
+    "sha256":  "6a853e006e0ee6e264880419259b100fbf08980a707eebf3e76d755c31a97b92",
     "mandatory":  false,
-    "notes":  "- Películas: en Todas ahora salen primero las películas más recientes que agregamos."
+    "notes":  "- Inicio renovado: saludo con la fecha de vencimiento de tu cuenta, lo recién agregado arriba y nueva fila de Películas en Tendencia.\n- Nuevo botón Actualizar en Canales, Películas, Series y PPV: trae al momento lo último que agregamos.\n- El catálogo se refresca solo más seguido (cada 10 minutos)."
 }
