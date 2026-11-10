@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  42,
-    "versionName":  "0.11.20",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.20/TLTVNext.apk",
-    "sha256":  "c3f291716fcc280ec09ae37363ce07cf62e94b3e0172b23415c60ab5899b16e0",
+    "versionCode":  43,
+    "versionName":  "0.11.21",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.21/TLTVNext.apk",
+    "sha256":  "5311465e57d16a41c07796fa44dea2e60e93ab49ce2b340652be9ee6a1b7d3ba",
     "mandatory":  false,
-    "notes":  "- Nuevo: en cada capítulo que dejaste a medias ves cuánto te falta (\"Quedan 22 min\"), en la serie y en Continuar viendo."
+    "notes":  "- Nuevo: formato de imagen en el reproductor (Ajustar, Llenar, Estirar, 16:9, 4:3). En películas y series con el botón de la barra; en canales desde la lista de canales o junto a CC."
 }
