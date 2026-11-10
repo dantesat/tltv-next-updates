@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  35,
-    "versionName":  "0.11.13",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.13/TLTVNext.apk",
-    "sha256":  "255deadb9a0d66e4d2e54296ec0d61fec746e72b1a16e7e26343edc70983a49d",
+    "versionCode":  36,
+    "versionName":  "0.11.14",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.14/TLTVNext.apk",
+    "sha256":  "72490533ebd2d42815ffdcdcd28c467007d1eaad2db525a2d23655d7f60d20b5",
     "mandatory":  false,
-    "notes":  "- Series: cada capítulo que terminas de ver ahora lleva un check verde de \"Visto\", como en la TLTV anterior.\n- El botón VER de la serie ya te lleva al siguiente capítulo que te toca."
+    "notes":  "- Películas: en Todas ahora salen primero las películas más recientes que agregamos."
 }
