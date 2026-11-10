@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  43,
-    "versionName":  "0.11.21",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.21/TLTVNext.apk",
-    "sha256":  "5311465e57d16a41c07796fa44dea2e60e93ab49ce2b340652be9ee6a1b7d3ba",
+    "versionCode":  44,
+    "versionName":  "0.11.22",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.22/TLTVNext.apk",
+    "sha256":  "422a50d4a816147767fe822e86e1d57334b0521d6c273a129b2711ff9c2777d5",
     "mandatory":  false,
-    "notes":  "- Nuevo: formato de imagen en el reproductor (Ajustar, Llenar, Estirar, 16:9, 4:3). En películas y series con el botón de la barra; en canales desde la lista de canales o junto a CC."
+    "notes":  "- Mejora: la app usa mejor la memoria y ya no se cierra sola en Fire TV y equipos con poca memoria."
 }
