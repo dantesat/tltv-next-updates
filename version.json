@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  45,
-    "versionName":  "0.11.23",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.23/TLTVNext.apk",
-    "sha256":  "de01399934f1e3fe447577bb7dcf9e9673578f8259b76270a8522aaa194f5a85",
+    "versionCode":  46,
+    "versionName":  "0.11.24",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.24/TLTVNext.apk",
+    "sha256":  "98991cb2845ae594e0a3c7edb66d4f444074bfed14ff260aff62f3648e4c917a",
     "mandatory":  false,
-    "notes":  "- Nuevo orden del menú: Buscar arriba, PPV junto a Canales y Cuenta al final. Series con ícono nuevo."
+    "notes":  "- Inicio: el saludo ahora muestra tu usuario y el título del destacado ya no se encima."
 }
