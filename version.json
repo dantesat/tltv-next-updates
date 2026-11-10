@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  38,
-    "versionName":  "0.11.16",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.16/TLTVNext.apk",
-    "sha256":  "6a853e006e0ee6e264880419259b100fbf08980a707eebf3e76d755c31a97b92",
+    "versionCode":  39,
+    "versionName":  "0.11.17",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.17/TLTVNext.apk",
+    "sha256":  "a9c9ea2f830da3f11e05476f91df4e31a51b1b8f1a07a696213e4e7d3225e256",
     "mandatory":  false,
-    "notes":  "- Inicio renovado: saludo con la fecha de vencimiento de tu cuenta, lo recién agregado arriba y nueva fila de Películas en Tendencia.\n- Nuevo botón Actualizar en Canales, Películas, Series y PPV: trae al momento lo último que agregamos.\n- El catálogo se refresca solo más seguido (cada 10 minutos)."
+    "notes":  "- Canales en vivo: ahora puedes activar los subtítulos CC (closed captions) en los canales que los traen. En Fire TV con el botón del menú (☰), en la lista de canales o con el botón CC en el celular."
 }
