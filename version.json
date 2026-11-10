@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  39,
-    "versionName":  "0.11.17",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.17/TLTVNext.apk",
-    "sha256":  "a9c9ea2f830da3f11e05476f91df4e31a51b1b8f1a07a696213e4e7d3225e256",
+    "versionCode":  41,
+    "versionName":  "0.11.19",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.19/TLTVNext.apk",
+    "sha256":  "ddc1079001128bd3e69d97046d2ea4d9811769821f8f05883fb20e5866b82a8e",
     "mandatory":  false,
-    "notes":  "- Canales en vivo: ahora puedes activar los subtítulos CC (closed captions) en los canales que los traen. En Fire TV con el botón del menú (☰), en la lista de canales o con el botón CC en el celular."
+    "notes":  "- Nuevo: Multipantalla. Mira 2 o 4 canales a la vez desde Canales o PPV (botón Multipantalla) o desde la lista de canales mientras ves uno.\n- Nuevo: Subs en línea. En películas y series, en Audio y subtítulos elige Buscar en línea para poner subtítulos en español o inglés."
 }
