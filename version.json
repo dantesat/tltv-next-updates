@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  48,
-    "versionName":  "0.11.26",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.26/TLTVNext.apk",
-    "sha256":  "49c05f6fc770f203c307f0d5f781809c55244d2ee21e99b9ad7ece542abec850",
+    "versionCode":  49,
+    "versionName":  "0.11.27",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.27/TLTVNext.apk",
+    "sha256":  "4b8b89c9ce7472086b19308029d114eda6ed6ca07046a97de948ea3e5cdcfd5d",
     "mandatory":  false,
-    "notes":  "- Películas y series: controles nuevos, iguales a los de los canales: pausa, adelantar y atrasar 10 s, audio, subtítulos, siguiente capítulo y velocidad.\n- En el celular: doble toque a los lados para adelantar o atrasar."
+    "notes":  "- Ya no sigue sonando el audio al salir de la app o apagar la tele (también en Multipantalla).\n- Lo recién subido aparece solo; Películas y Series muestran lo más nuevo primero, y en Inicio hay Series recién agregadas y en tendencia.\n- Volver de un canal ya no recarga la lista. Pantalla de acceso más sencilla."
 }
