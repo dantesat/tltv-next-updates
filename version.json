@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  50,
-    "versionName":  "0.11.28",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.28/TLTVNext.apk",
-    "sha256":  "a1fc21974e6b124e5845f6498e43ac43062344b0448a3712f5570fa535f7293f",
+    "versionCode":  51,
+    "versionName":  "0.11.29",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.29/TLTVNext.apk",
+    "sha256":  "4dfafdcb2995c4d8559ee4572898008f84a406a8d5cdab7fe786a33508bbe4b0",
     "mandatory":  false,
-    "notes":  "- Control parental: las categorías para adultos vienen ocultas y las que bloquees desaparecen al momento. Para verlas, toca \"Ocultas\" y escribe tu PIN."
+    "notes":  "Inicio: la fila de series ahora se llama \"Series · Nuevos capítulos\" y muestra arriba las series nuevas y las que estrenaron capítulo."
 }
