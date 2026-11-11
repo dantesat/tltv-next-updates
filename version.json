@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  47,
-    "versionName":  "0.11.25",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.25/TLTVNext.apk",
-    "sha256":  "58b8f6e5d2d9875bb40f4fea4d67e3c362639481c51ae4140b9554ab63dd19e6",
+    "versionCode":  48,
+    "versionName":  "0.11.26",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.26/TLTVNext.apk",
+    "sha256":  "49c05f6fc770f203c307f0d5f781809c55244d2ee21e99b9ad7ece542abec850",
     "mandatory":  false,
-    "notes":  "- Canales en vivo: menú nuevo abajo con el programa actual y botones Canales, Favorito, Audio, Subtítulos y Más.\n- Reportar un canal que falla, buscar canales sin salir del video y Favoritos en el menú.\n- Celular: el video sigue en una ventanita al salir de la app."
+    "notes":  "- Películas y series: controles nuevos, iguales a los de los canales: pausa, adelantar y atrasar 10 s, audio, subtítulos, siguiente capítulo y velocidad.\n- En el celular: doble toque a los lados para adelantar o atrasar."
 }
