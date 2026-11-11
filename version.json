@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  49,
-    "versionName":  "0.11.27",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.27/TLTVNext.apk",
-    "sha256":  "4b8b89c9ce7472086b19308029d114eda6ed6ca07046a97de948ea3e5cdcfd5d",
+    "versionCode":  50,
+    "versionName":  "0.11.28",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.28/TLTVNext.apk",
+    "sha256":  "a1fc21974e6b124e5845f6498e43ac43062344b0448a3712f5570fa535f7293f",
     "mandatory":  false,
-    "notes":  "- Ya no sigue sonando el audio al salir de la app o apagar la tele (también en Multipantalla).\n- Lo recién subido aparece solo; Películas y Series muestran lo más nuevo primero, y en Inicio hay Series recién agregadas y en tendencia.\n- Volver de un canal ya no recarga la lista. Pantalla de acceso más sencilla."
+    "notes":  "- Control parental: las categorías para adultos vienen ocultas y las que bloquees desaparecen al momento. Para verlas, toca \"Ocultas\" y escribe tu PIN."
 }
