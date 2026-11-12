@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  51,
-    "versionName":  "0.11.29",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.29/TLTVNext.apk",
-    "sha256":  "4dfafdcb2995c4d8559ee4572898008f84a406a8d5cdab7fe786a33508bbe4b0",
+    "versionCode":  52,
+    "versionName":  "0.11.30",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.30/TLTVNext.apk",
+    "sha256":  "068c1531b4509989af2e9157f9428551d1b2d2977d6d19bf0e4a63af5dc6126f",
     "mandatory":  false,
-    "notes":  "Inicio: la fila de series ahora se llama \"Series · Nuevos capítulos\" y muestra arriba las series nuevas y las que estrenaron capítulo."
+    "notes":  "Subtítulos más fáciles de leer: letra blanca con contorno negro grueso, sin recuadro. Eventos (Mundial, ligas de EE. UU., Eredivisie, USL) ahora en PPV. Las filas de Inicio se mueven sin brincos con el control."
 }
