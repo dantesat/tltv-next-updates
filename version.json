@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  52,
-    "versionName":  "0.11.30",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.30/TLTVNext.apk",
-    "sha256":  "068c1531b4509989af2e9157f9428551d1b2d2977d6d19bf0e4a63af5dc6126f",
+    "versionCode":  53,
+    "versionName":  "0.11.31",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.31/TLTVNext.apk",
+    "sha256":  "8534ece4f16d58d5242107fd96dec53454db961ed5975882836ddbf0c175677f",
     "mandatory":  false,
-    "notes":  "Subtítulos más fáciles de leer: letra blanca con contorno negro grueso, sin recuadro. Eventos (Mundial, ligas de EE. UU., Eredivisie, USL) ahora en PPV. Las filas de Inicio se mueven sin brincos con el control."
+    "notes":  "Nuevo en Películas y Series: «Explorar», con Streaming (Netflix, Prime Video, HBO Max…), países, géneros, colecciones y novelas. Solo aparece lo que tu plan incluye."
 }
