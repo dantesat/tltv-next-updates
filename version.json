@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  56,
-    "versionName":  "0.11.34",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.34/TLTVNext.apk",
-    "sha256":  "e2b63d57bc46635bc9b43ec2eb9dbbb872baf936f8838efc1a21e8d07063de00",
+    "versionCode":  57,
+    "versionName":  "0.11.35",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.35/TLTVNext.apk",
+    "sha256":  "9762b4b4de0515f770ca9bfb7b4e480af677b2b02c59d3d8ad3b7c16afb2de46",
     "mandatory":  false,
-    "notes":  "Explorar: las plataformas de Streaming ahora se ven con el color de cada marca, su nombre y cuántos títulos tiene."
+    "notes":  "Explorar: los logos de Disney+, Hulu y Claro video ahora llenan su tarjeta como los demás."
 }
