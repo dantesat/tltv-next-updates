@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  57,
-    "versionName":  "0.11.35",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.35/TLTVNext.apk",
-    "sha256":  "9762b4b4de0515f770ca9bfb7b4e480af677b2b02c59d3d8ad3b7c16afb2de46",
+    "versionCode":  58,
+    "versionName":  "0.11.36",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.36/TLTVNext.apk",
+    "sha256":  "e9b3bebda2d642b3f77c1d7a521c525bceff40d7ce2c738980502c2e4f7487ea",
     "mandatory":  false,
-    "notes":  "Explorar: los logos de Disney+, Hulu y Claro video ahora llenan su tarjeta como los demás."
+    "notes":  "Canales en vivo más estables: se abren como en la app de la tienda y aguantan mejor las pausas del servidor. Además, los logos de Streaming se ven nítidos y del mismo tamaño."
 }
