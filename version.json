@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  55,
-    "versionName":  "0.11.33",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.33/TLTVNext.apk",
-    "sha256":  "c0a8d1ad3917e00900e207470ede3296f17ae1bb66dac7ad693f82c6ea4778fd",
+    "versionCode":  56,
+    "versionName":  "0.11.34",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.34/TLTVNext.apk",
+    "sha256":  "e2b63d57bc46635bc9b43ec2eb9dbbb872baf936f8838efc1a21e8d07063de00",
     "mandatory":  false,
-    "notes":  "Privacidad: lo de adultos (XXX, +18…) ya no se guarda en Recientes ni en Continuar viendo, y lo que ya estaba guardado se borra solo."
+    "notes":  "Explorar: las plataformas de Streaming ahora se ven con el color de cada marca, su nombre y cuántos títulos tiene."
 }
