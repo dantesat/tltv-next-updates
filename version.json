@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  54,
-    "versionName":  "0.11.32",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.32/TLTVNext.apk",
-    "sha256":  "04b9e61f1b7b38aaaf2818d9a716d832a94552b3734a778979e7988aa3039c62",
+    "versionCode":  55,
+    "versionName":  "0.11.33",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.33/TLTVNext.apk",
+    "sha256":  "c0a8d1ad3917e00900e207470ede3296f17ae1bb66dac7ad693f82c6ea4778fd",
     "mandatory":  false,
-    "notes":  "Nuevo: la lista de canales se queda abierta para ir probando canal por canal (Atrás la cierra), Top 5 de películas y series de la semana, etiquetas «Recién agregada» y «Nuevo episodio», y una guía de bienvenida (también en Cuenta)."
+    "notes":  "Privacidad: lo de adultos (XXX, +18…) ya no se guarda en Recientes ni en Continuar viendo, y lo que ya estaba guardado se borra solo."
 }
