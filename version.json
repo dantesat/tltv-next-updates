@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  53,
-    "versionName":  "0.11.31",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.31/TLTVNext.apk",
-    "sha256":  "8534ece4f16d58d5242107fd96dec53454db961ed5975882836ddbf0c175677f",
+    "versionCode":  54,
+    "versionName":  "0.11.32",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.32/TLTVNext.apk",
+    "sha256":  "04b9e61f1b7b38aaaf2818d9a716d832a94552b3734a778979e7988aa3039c62",
     "mandatory":  false,
-    "notes":  "Nuevo en Películas y Series: «Explorar», con Streaming (Netflix, Prime Video, HBO Max…), países, géneros, colecciones y novelas. Solo aparece lo que tu plan incluye."
+    "notes":  "Nuevo: la lista de canales se queda abierta para ir probando canal por canal (Atrás la cierra), Top 5 de películas y series de la semana, etiquetas «Recién agregada» y «Nuevo episodio», y una guía de bienvenida (también en Cuenta)."
 }
