@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  62,
-    "versionName":  "0.11.40",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.40/TLTVNext.apk",
-    "sha256":  "5c89590e150b7b123b0a98d63a5525b9d703dd5c2512dce673ba9604f3727299",
+    "versionCode":  63,
+    "versionName":  "0.11.41",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.41/TLTVNext.apk",
+    "sha256":  "a1998ada27b499245fa89a63b431ea934f5c738f7371d37c148d8c26e71e10c2",
     "mandatory":  false,
-    "notes":  "Nuevo: tamaño de subtítulos, búfer ajustable en Cuenta y, en el celular, deslizar para volumen y brillo. El video ya no se mete debajo de la cámara."
+    "notes":  "Al iniciar sesión, el ojito del campo Contraseña deja ver lo que escribiste."
 }
