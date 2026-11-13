@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  63,
-    "versionName":  "0.11.41",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.41/TLTVNext.apk",
-    "sha256":  "a1998ada27b499245fa89a63b431ea934f5c738f7371d37c148d8c26e71e10c2",
+    "versionCode":  64,
+    "versionName":  "0.11.42",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.42/TLTVNext.apk",
+    "sha256":  "48d4efb594ae04fe9b6443a9cab0b4c152403012f306bc5a331b3bbfb2db7e9e",
     "mandatory":  false,
-    "notes":  "Al iniciar sesión, el ojito del campo Contraseña deja ver lo que escribiste."
+    "notes":  "Películas y series que estaban incompletas en el proveedor ahora intentan abrir desde el inicio en vez de marcar error."
 }
