@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  65,
-    "versionName":  "0.11.43",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.43/TLTVNext.apk",
-    "sha256":  "6447c43344fa0e835005b38b1a847afffed363c6c2735612a5b201c24950f8e9",
+    "versionCode":  66,
+    "versionName":  "0.11.44",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.44/TLTVNext.apk",
+    "sha256":  "48eff101d5b8baa7fe7cd326b040251e506d97b8f15e01de1da284f0d4342678",
     "mandatory":  false,
-    "notes":  "Canales: el mini reproductor pone el canal más rápido al bajar por la lista."
+    "notes":  "Canales con mini reproductor también en el celular acostado, favoritos desde la lista de canales del reproductor y desplazamiento más suave con el control."
 }
