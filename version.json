@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  58,
-    "versionName":  "0.11.36",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.36/TLTVNext.apk",
-    "sha256":  "e9b3bebda2d642b3f77c1d7a521c525bceff40d7ce2c738980502c2e4f7487ea",
+    "versionCode":  59,
+    "versionName":  "0.11.37",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.37/TLTVNext.apk",
+    "sha256":  "b976870c0159ecf5630166a4cc0d5838441e979bceb8fce86cbca55de922420c",
     "mandatory":  false,
-    "notes":  "Canales en vivo más estables: se abren como en la app de la tienda y aguantan mejor las pausas del servidor. Además, los logos de Streaming se ven nítidos y del mismo tamaño."
+    "notes":  "Multipantalla más estable: cada cuadro abre el canal igual que la pantalla completa."
 }
