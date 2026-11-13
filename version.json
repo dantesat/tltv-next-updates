@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  64,
-    "versionName":  "0.11.42",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.42/TLTVNext.apk",
-    "sha256":  "48d4efb594ae04fe9b6443a9cab0b4c152403012f306bc5a331b3bbfb2db7e9e",
+    "versionCode":  65,
+    "versionName":  "0.11.43",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.43/TLTVNext.apk",
+    "sha256":  "6447c43344fa0e835005b38b1a847afffed363c6c2735612a5b201c24950f8e9",
     "mandatory":  false,
-    "notes":  "Películas y series que estaban incompletas en el proveedor ahora intentan abrir desde el inicio en vez de marcar error."
+    "notes":  "Canales: el mini reproductor pone el canal más rápido al bajar por la lista."
 }
