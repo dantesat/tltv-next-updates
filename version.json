@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  59,
-    "versionName":  "0.11.37",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.37/TLTVNext.apk",
-    "sha256":  "b976870c0159ecf5630166a4cc0d5838441e979bceb8fce86cbca55de922420c",
+    "versionCode":  60,
+    "versionName":  "0.11.38",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.38/TLTVNext.apk",
+    "sha256":  "1cabd14893828d706345aa7b4cbdace3b92e4680ff7e88e624409fe9ef6c6ceb",
     "mandatory":  false,
-    "notes":  "Multipantalla más estable: cada cuadro abre el canal igual que la pantalla completa."
+    "notes":  "Canales renovado en la tele: categorías con su cantidad, lo que pasa en cada canal y vista previa en vivo. En el reproductor, la lista de canales cambia de categoría con las flechas."
 }
