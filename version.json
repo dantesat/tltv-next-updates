@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  61,
-    "versionName":  "0.11.39",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.39/TLTVNext.apk",
-    "sha256":  "7f71eebeb296cd47a6481466d9690f6248a2168395b41885a76a562c5afeb667",
+    "versionCode":  62,
+    "versionName":  "0.11.40",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.40/TLTVNext.apk",
+    "sha256":  "5c89590e150b7b123b0a98d63a5525b9d703dd5c2512dce673ba9604f3727299",
     "mandatory":  false,
-    "notes":  "Canales: mini reproductor más grande. Con el dedo, un toque pasa el canal en chiquito y otro lo abre en pantalla completa."
+    "notes":  "Nuevo: tamaño de subtítulos, búfer ajustable en Cuenta y, en el celular, deslizar para volumen y brillo. El video ya no se mete debajo de la cámara."
 }
