@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  73,
-    "versionName":  "0.11.51",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.51/TLTVNext.apk",
-    "sha256":  "6fd0e89436553d08b3a375afe187f944f1a30e8b2a11cda6291cbbb8cac523bf",
+    "versionCode":  74,
+    "versionName":  "0.11.52",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.52/TLTVNext.apk",
+    "sha256":  "49393ddd25df28af1a5c02760a58762c697f13c75453a00ef204f0d2569a7b9a",
     "mandatory":  false,
-    "notes":  "Al salir de la app, el video y el audio ya se detienen (antes seguía en una ventanita flotante). Si la quieres, se prende en Cuenta."
+    "notes":  "Cambiar de canal ya no choca con el tope de pantallas en cuentas de 1 conexión: la app suelta el canal anterior antes de abrir el siguiente y, si el proveedor todavía lo cuenta, espera un momento y entra sola."
 }
