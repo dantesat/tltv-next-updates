@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  67,
-    "versionName":  "0.11.45",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.45/TLTVNext.apk",
-    "sha256":  "eb224591526ca0cf27eeb69bbbb744ab07257dfd4808f27a95344488578dd43b",
+    "versionCode":  68,
+    "versionName":  "0.11.46",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.46/TLTVNext.apk",
+    "sha256":  "c510933473533cfad1d4643877c1767eaa7c9d3f3118901cb5d279b9e6b61bc2",
     "mandatory":  false,
-    "notes":  "Ya no brinca la pantalla al pasar de una portada a otra con el control."
+    "notes":  "Top de la semana con lo más visto en TLTV, en Inicio y en Películas y Series (aparece en cuanto el servicio lo publique; mientras tanto sale el de siempre)."
 }
