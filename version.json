@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  70,
-    "versionName":  "0.11.48",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.48/TLTVNext.apk",
-    "sha256":  "5ae48fb57b86af286a98d08f42a9dcc0953dbebe9a9f720b68606911263e67cb",
+    "versionCode":  71,
+    "versionName":  "0.11.49",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.49/TLTVNext.apk",
+    "sha256":  "37c2f3dff3ab00685c5270753920b37046dca445d543877cc339125b9cc583e6",
     "mandatory":  false,
-    "notes":  "Canales: nueva categoría \"Lo más visto ahora\". PPV: arriba salen los partidos que se están jugando en este momento, con reloj y marcador cuando hay; si una señal no abre, prueba sola la siguiente."
+    "notes":  "Mejoras internas: la app ahora nos avisa qué tan fluida corre en cada equipo, para encontrar y arreglar lo que se trabe."
 }
