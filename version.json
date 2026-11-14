@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  71,
-    "versionName":  "0.11.49",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.49/TLTVNext.apk",
-    "sha256":  "37c2f3dff3ab00685c5270753920b37046dca445d543877cc339125b9cc583e6",
+    "versionCode":  72,
+    "versionName":  "0.11.50",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.50/TLTVNext.apk",
+    "sha256":  "9560ace7fc1de951a8596cbcc1385b47f04c72f4f317b50cf5cf030910fc93fc",
     "mandatory":  false,
-    "notes":  "Mejoras internas: la app ahora nos avisa qué tan fluida corre en cada equipo, para encontrar y arreglar lo que se trabe."
+    "notes":  "PPV abre mucho más rápido cuando hay muchos eventos. En Inicio, al volver arriba con el control el Destacado ya se ve completo."
 }
