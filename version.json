@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  68,
-    "versionName":  "0.11.46",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.46/TLTVNext.apk",
-    "sha256":  "c510933473533cfad1d4643877c1767eaa7c9d3f3118901cb5d279b9e6b61bc2",
+    "versionCode":  69,
+    "versionName":  "0.11.47",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.47/TLTVNext.apk",
+    "sha256":  "b619908bd3c4ebe6dfd5ad3d7f688d8ba6da04d6530279cdc237b23cd6f730a0",
     "mandatory":  false,
-    "notes":  "Top de la semana con lo más visto en TLTV, en Inicio y en Películas y Series (aparece en cuanto el servicio lo publique; mientras tanto sale el de siempre)."
+    "notes":  "PPV nuevo: fila de deportes (fútbol, béisbol, baloncesto, combate...) con cuántos eventos hay, y agenda por hora con lo que está en vivo, lo que empieza más tarde y lo que ya pasó."
 }
