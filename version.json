@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  72,
-    "versionName":  "0.11.50",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.50/TLTVNext.apk",
-    "sha256":  "9560ace7fc1de951a8596cbcc1385b47f04c72f4f317b50cf5cf030910fc93fc",
+    "versionCode":  73,
+    "versionName":  "0.11.51",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.51/TLTVNext.apk",
+    "sha256":  "6fd0e89436553d08b3a375afe187f944f1a30e8b2a11cda6291cbbb8cac523bf",
     "mandatory":  false,
-    "notes":  "PPV abre mucho más rápido cuando hay muchos eventos. En Inicio, al volver arriba con el control el Destacado ya se ve completo."
+    "notes":  "Al salir de la app, el video y el audio ya se detienen (antes seguía en una ventanita flotante). Si la quieres, se prende en Cuenta."
 }
