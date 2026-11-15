@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  76,
-    "versionName":  "0.11.54",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.54/TLTVNext.apk",
-    "sha256":  "506028af65550dd3a61d52c9bf89015bd4166c64a773903ae39946e07f1688bc",
+    "versionCode":  77,
+    "versionName":  "0.11.55",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.55/TLTVNext.apk",
+    "sha256":  "69c4ab57af1a82b253362bee651caaf950e6b86a3ba87fd146315ecbdaa1ad26",
     "mandatory":  false,
-    "notes":  "Nuevo: la app ahora también está en inglés. Cámbialo en Cuenta → Idioma (Español / English). · New: the app is now available in English. Change it in Account → Language."
+    "notes":  "Películas → Explorar → Colecciones: nuevo botón \"Ver todas\" al final de la fila, con más de 1,300 colecciones (Marvel, Harry Potter, Star Wars y muchas más)."
 }
