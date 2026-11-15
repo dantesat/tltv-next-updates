@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  77,
-    "versionName":  "0.11.55",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.55/TLTVNext.apk",
-    "sha256":  "69c4ab57af1a82b253362bee651caaf950e6b86a3ba87fd146315ecbdaa1ad26",
+    "versionCode":  78,
+    "versionName":  "0.11.56",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.56/TLTVNext.apk",
+    "sha256":  "fb8a889b81f2a5ba4a6718355453a2ed5a1ad10a381ff89c15cdf84d3ceab2f5",
     "mandatory":  false,
-    "notes":  "Películas → Explorar → Colecciones: nuevo botón \"Ver todas\" al final de la fila, con más de 1,300 colecciones (Marvel, Harry Potter, Star Wars y muchas más)."
+    "notes":  "Canales: nuevo botón \"Reconectar\" en la barra del canal, y si un canal se congela la app lo reconecta sola más rápido. Las portadas grandes de películas y series ahora se ven nítidas."
 }
