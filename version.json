@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  80,
-    "versionName":  "0.11.58",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.58/TLTVNext.apk",
-    "sha256":  "f24004b02afbfa634078f3af9ff3090098c0fd8929e82be627974c6ef6418c7f",
+    "versionCode":  81,
+    "versionName":  "0.11.59",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.59/TLTVNext.apk",
+    "sha256":  "1f82109c8e2ee3ed71a4026712cb512032313917acf68f3da9f59a569d2be479",
     "mandatory":  false,
-    "notes":  "Al cerrar sesión tu usuario se queda escrito, y con la app en English las sinopsis salen en inglés."
+    "notes":  "Al cerrar sesión se quedan tu usuario y contraseña, y en Series hay \"Recién agregadas\" con las series nuevas."
 }
