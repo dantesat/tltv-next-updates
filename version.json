@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  79,
-    "versionName":  "0.11.57",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.57/TLTVNext.apk",
-    "sha256":  "a1f457199aea885f0bef9b7d64047560af41209d1d225888a51f56e871947692",
+    "versionCode":  80,
+    "versionName":  "0.11.58",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.58/TLTVNext.apk",
+    "sha256":  "f24004b02afbfa634078f3af9ff3090098c0fd8929e82be627974c6ef6418c7f",
     "mandatory":  false,
-    "notes":  "Nuevo: \"Seguir serie\" te avisa cuando sale un capítulo nuevo, las portadas muestran la calificación, y en Cuenta puedes probar tu internet con \"Probar mi conexión\"."
+    "notes":  "Al cerrar sesión tu usuario se queda escrito, y con la app en English las sinopsis salen en inglés."
 }
