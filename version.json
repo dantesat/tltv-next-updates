@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  81,
-    "versionName":  "0.11.59",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.59/TLTVNext.apk",
-    "sha256":  "1f82109c8e2ee3ed71a4026712cb512032313917acf68f3da9f59a569d2be479",
+    "versionCode":  82,
+    "versionName":  "0.11.60",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.60/TLTVNext.apk",
+    "sha256":  "1ff09ac9a28727df1edb53458f2567d0141decc425de337e1679bafbe94a8009",
     "mandatory":  false,
-    "notes":  "Al cerrar sesión se quedan tu usuario y contraseña, y en Series hay \"Recién agregadas\" con las series nuevas."
+    "notes":  "En Inicio ahora también ves las series recién agregadas, además de las que tienen capítulos nuevos."
 }
