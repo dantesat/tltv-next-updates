@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  82,
-    "versionName":  "0.11.60",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.60/TLTVNext.apk",
-    "sha256":  "1ff09ac9a28727df1edb53458f2567d0141decc425de337e1679bafbe94a8009",
+    "versionCode":  83,
+    "versionName":  "0.11.61",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.61/TLTVNext.apk",
+    "sha256":  "06db8b253257388c7b2a039c14a3ef37a866f78f71fc51d2b3321cc9ac8d78b5",
     "mandatory":  false,
-    "notes":  "En Inicio ahora también ves las series recién agregadas, además de las que tienen capítulos nuevos."
+    "notes":  "En Series → Explorar ahora ves las series recién agregadas, y con la app en English el nombre de la película o serie también sale en inglés."
 }
