@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  78,
-    "versionName":  "0.11.56",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.56/TLTVNext.apk",
-    "sha256":  "fb8a889b81f2a5ba4a6718355453a2ed5a1ad10a381ff89c15cdf84d3ceab2f5",
+    "versionCode":  79,
+    "versionName":  "0.11.57",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.57/TLTVNext.apk",
+    "sha256":  "a1f457199aea885f0bef9b7d64047560af41209d1d225888a51f56e871947692",
     "mandatory":  false,
-    "notes":  "Canales: nuevo botón \"Reconectar\" en la barra del canal, y si un canal se congela la app lo reconecta sola más rápido. Las portadas grandes de películas y series ahora se ven nítidas."
+    "notes":  "Nuevo: \"Seguir serie\" te avisa cuando sale un capítulo nuevo, las portadas muestran la calificación, y en Cuenta puedes probar tu internet con \"Probar mi conexión\"."
 }
