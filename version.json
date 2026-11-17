@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  87,
-    "versionName":  "0.11.65",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.65/TLTVNext.apk",
-    "sha256":  "b208838a2ec3962e5d76291dda55a8c199b987f39b48780b27cd2d293fdec272",
+    "versionCode":  88,
+    "versionName":  "0.11.66",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.66/TLTVNext.apk",
+    "sha256":  "26679118b706c59e0c972d5488ce885e298f477fd340e22a52de0ad19637ffbf",
     "mandatory":  false,
-    "notes":  "Los canales en vivo ya no se reconectan sin parar cuando el internet tiene demora: si el video está llegando, la app espera a que arranque."
+    "notes":  "Los canales en vivo esperan a que el servidor mande el video en vez de reconectar a los pocos segundos."
 }
