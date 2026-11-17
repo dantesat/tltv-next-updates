@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  89,
-    "versionName":  "0.11.67",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.67/TLTVNext.apk",
-    "sha256":  "4adfcb2423e16b28b0aab9787311ee949af8223e27b512f96d8d875ed00fe572",
+    "versionCode":  90,
+    "versionName":  "0.11.68",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.68/TLTVNext.apk",
+    "sha256":  "0c392fbf9208a97221d381283780f1405dc0a76a7c4901a36dfffc1dc88104c5",
     "mandatory":  false,
-    "notes":  "Películas que se quedaban cargando con audio latino (copias DUAL) ahora sí abren."
+    "notes":  "Mejoras en el acceso con cuentas de prueba."
 }
