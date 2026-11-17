@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  86,
-    "versionName":  "0.11.64",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.64/TLTVNext.apk",
-    "sha256":  "ba70a28a970b1fe72df85d1b033965f3a697a83400b71d8a0cfbebf9e9c344bb",
+    "versionCode":  87,
+    "versionName":  "0.11.65",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.65/TLTVNext.apk",
+    "sha256":  "b208838a2ec3962e5d76291dda55a8c199b987f39b48780b27cd2d293fdec272",
     "mandatory":  false,
-    "notes":  "Con la app en English ahora todo sale en inglés: el reproductor, los capítulos, los géneros, países y colecciones."
+    "notes":  "Los canales en vivo ya no se reconectan sin parar cuando el internet tiene demora: si el video está llegando, la app espera a que arranque."
 }
