@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  85,
-    "versionName":  "0.11.63",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.63/TLTVNext.apk",
-    "sha256":  "37f8a92fecfe8063ff297a28cf975576fe37ea4d3668e30598ce531d95b662a0",
+    "versionCode":  86,
+    "versionName":  "0.11.64",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.64/TLTVNext.apk",
+    "sha256":  "ba70a28a970b1fe72df85d1b033965f3a697a83400b71d8a0cfbebf9e9c344bb",
     "mandatory":  false,
-    "notes":  "Con la app en English, las portadas de las películas y series también salen en inglés."
+    "notes":  "Con la app en English ahora todo sale en inglés: el reproductor, los capítulos, los géneros, países y colecciones."
 }
