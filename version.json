@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  90,
-    "versionName":  "0.11.68",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.68/TLTVNext.apk",
-    "sha256":  "0c392fbf9208a97221d381283780f1405dc0a76a7c4901a36dfffc1dc88104c5",
+    "versionCode":  91,
+    "versionName":  "0.11.69",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.69/TLTVNext.apk",
+    "sha256":  "3f009e921db4fe8f2715d5e5f0332d34c7cf301c2b3155b35653c83f56203db6",
     "mandatory":  false,
-    "notes":  "Mejoras en el acceso con cuentas de prueba."
+    "notes":  "Las estadísticas de los partidos aparecen más seguido."
 }
