@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  91,
-    "versionName":  "0.11.69",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.69/TLTVNext.apk",
-    "sha256":  "3f009e921db4fe8f2715d5e5f0332d34c7cf301c2b3155b35653c83f56203db6",
+    "versionCode":  92,
+    "versionName":  "0.11.70",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.70/TLTVNext.apk",
+    "sha256":  "821b483ab80e9d7ed438f8e06a904b3c81c356fe0370dedc28103f077ae886db",
     "mandatory":  false,
-    "notes":  "Las estadísticas de los partidos aparecen más seguido."
+    "notes":  "Si la imagen se congela y el audio sigue, el canal se reconecta solo."
 }
