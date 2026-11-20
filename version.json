@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  93,
-    "versionName":  "0.11.71",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.71/TLTVNext.apk",
-    "sha256":  "3efd4bcd6510672b400b3e3cea6bbd2c41880d07cd8e6195f5ecae3fbcf53a90",
+    "versionCode":  94,
+    "versionName":  "0.11.72",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.72/TLTVNext.apk",
+    "sha256":  "fd2c70032b837f0cea18402932a49e0d7fd926cfc0a278d634032d920e568634",
     "mandatory":  false,
-    "notes":  "Continuar viendo ahora también en Películas y Series."
+    "notes":  "Calificación en todas las portadas, \"Lo más visto ahora\" en Inicio, Borrar historial en Cuenta y canales de la A a la Z."
 }
