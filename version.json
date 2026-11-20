@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  92,
-    "versionName":  "0.11.70",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.70/TLTVNext.apk",
-    "sha256":  "821b483ab80e9d7ed438f8e06a904b3c81c356fe0370dedc28103f077ae886db",
+    "versionCode":  93,
+    "versionName":  "0.11.71",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.71/TLTVNext.apk",
+    "sha256":  "3efd4bcd6510672b400b3e3cea6bbd2c41880d07cd8e6195f5ecae3fbcf53a90",
     "mandatory":  false,
-    "notes":  "Si la imagen se congela y el audio sigue, el canal se reconecta solo."
+    "notes":  "Continuar viendo ahora también en Películas y Series."
 }
