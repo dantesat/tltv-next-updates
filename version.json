@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  95,
-    "versionName":  "0.11.73",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.73/TLTVNext.apk",
-    "sha256":  "4fb373bb85704cacaa09ba48c046899f1dca813bd5c45d09fb4de8beff80dd04",
+    "versionCode":  96,
+    "versionName":  "0.11.74",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.74/TLTVNext.apk",
+    "sha256":  "10f184a87cdd90c10509e56aa37330051f29b74730b10e759c30db848bb0b713",
     "mandatory":  false,
-    "notes":  "Tema navideño, \"¿No sabes qué ver?\" con un dado por género, \"Viaje por épocas\" en Películas y calificación en todas las portadas."
+    "notes":  "En Canales, con el control ya puedes pasar a la derecha desde \"Lo más visto ahora\" a la lista o la guía."
 }
