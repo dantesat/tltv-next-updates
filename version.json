@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  96,
-    "versionName":  "0.11.74",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.74/TLTVNext.apk",
-    "sha256":  "10f184a87cdd90c10509e56aa37330051f29b74730b10e759c30db848bb0b713",
+    "versionCode":  97,
+    "versionName":  "0.11.75",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.75/TLTVNext.apk",
+    "sha256":  "bc78107c5a7b582c2437c8faa220f497ba4599ac2f8a71e9483058db649e3bc8",
     "mandatory":  false,
-    "notes":  "En Canales, con el control ya puedes pasar a la derecha desde \"Lo más visto ahora\" a la lista o la guía."
+    "notes":  "Mejoras y correcciones."
 }
