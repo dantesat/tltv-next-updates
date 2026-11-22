@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  99,
-    "versionName":  "0.11.77",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.77/TLTVNext.apk",
-    "sha256":  "57f4f373efd969a53a172276a9931bd5b33da9a5ffcacfe51b73ca4c18a05acb",
+    "versionCode":  100,
+    "versionName":  "0.11.78",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.78/TLTVNext.apk",
+    "sha256":  "afdb6c9aee3d39b437ce0226da8785314db9df218aadc7167b947358fa93de5a",
     "mandatory":  false,
-    "notes":  "Nieve navideÃ±a en toda la app.",
+    "notes":  "Funciona mejor en equipos con poca memoria.",
     "rollout":  10
 }
