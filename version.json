@@ -6,5 +6,5 @@
     "sha256":  "afdb6c9aee3d39b437ce0226da8785314db9df218aadc7167b947358fa93de5a",
     "mandatory":  false,
     "notes":  "Funciona mejor en equipos con poca memoria.",
-    "rollout":  10
+    "rollout":  100
 }
