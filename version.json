@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  101,
-    "versionName":  "0.11.79",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.79/TLTVNext.apk",
-    "sha256":  "a4a9c71701ddf3c88bf026ed3b66acffd1cea1b95da91fd29e7e7f51563bdd56",
+    "versionCode":  102,
+    "versionName":  "0.11.80",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.80/TLTVNext.apk",
+    "sha256":  "82f7e4074f1f3e8e39bef2540d35fbd5fc62d516186727fba854c2e0aa4e8dfd",
     "mandatory":  false,
-    "notes":  "Abre mejor con compaÃ±Ã­as de internet que bloquean el servidor.",
+    "notes":  "BotÃ³n CapÃ­tulos en las series para cambiar de temporada o capÃ­tulo.",
     "rollout":  10
 }
