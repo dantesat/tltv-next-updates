@@ -5,6 +5,6 @@
     "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.80/TLTVNext.apk",
     "sha256":  "82f7e4074f1f3e8e39bef2540d35fbd5fc62d516186727fba854c2e0aa4e8dfd",
     "mandatory":  false,
-    "notes":  "BotÃ³n CapÃ­tulos en las series para cambiar de temporada o capÃ­tulo.",
+    "notes":  "Botón Capítulos en las series para cambiar de temporada o capítulo.",
     "rollout":  10
 }
