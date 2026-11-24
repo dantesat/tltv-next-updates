@@ -6,5 +6,5 @@
     "sha256":  "da724647fc3b83a9e7ab1c82e5d19840c36e6ae6a261eb1e2f349a20141dbf8a",
     "mandatory":  false,
     "notes":  "Menos cortes cuando la cuenta tiene las pantallas ocupadas y canales que abren más rápido.",
-    "rollout":  10
+    "rollout":  100
 }
