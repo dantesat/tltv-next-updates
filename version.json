@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  109,
-    "versionName":  "0.11.87",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.87/TLTVNext.apk",
-    "sha256":  "dcc4b0d52ba805e84603ea8e9bfcf8d8eb5b4172a7c942db1888c8ec8895f060",
+    "versionCode":  110,
+    "versionName":  "0.11.88",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.88/TLTVNext.apk",
+    "sha256":  "8c3d38e17109d0d8ba8f1fe92f6a409ead1bc6704bcb46b5a93bfcd44c946ee4",
     "mandatory":  false,
-    "notes":  "Fix arreglado.",
+    "notes":  "La guía de canales ya muestra la programación.",
     "rollout":  10
 }
