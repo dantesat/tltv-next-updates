@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  107,
-    "versionName":  "0.11.85",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.85/TLTVNext.apk",
-    "sha256":  "1e8f4d9292f966edb597006678ee62414fed8276f50623177b2562368f494873",
+    "versionCode":  108,
+    "versionName":  "0.11.86",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.86/TLTVNext.apk",
+    "sha256":  "840182e83e1b199ec312f6806ecea5ba7cdcb937230039d5b7a4addf5b3db0c1",
     "mandatory":  false,
-    "notes":  "La guía de canales se recupera sola cuando el servidor está ocupado.",
+    "notes":  "La guía ya no marca \"Sin guía\" a canales que sí la tienen.",
     "rollout":  10
 }
