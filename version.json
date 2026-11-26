@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  112,
-    "versionName":  "0.11.90",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.90/TLTVNext.apk",
-    "sha256":  "6bcf12397bf5b3ca79c7805fce44ee85b1f877a54866868e706e5aeeea2ebd9c",
+    "versionCode":  113,
+    "versionName":  "0.11.91",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.91/TLTVNext.apk",
+    "sha256":  "9581189ff9c8fd9d5bcc0e5854cb92be37290d034596446d5508b241edf35894",
     "mandatory":  false,
-    "notes":  "La guía de canales ahora muestra las horas correctas.",
+    "notes":  "Los canales en vivo cambian y se reconectan mejor.",
     "rollout":  10
 }
