@@ -6,5 +6,5 @@
     "sha256":  "9581189ff9c8fd9d5bcc0e5854cb92be37290d034596446d5508b241edf35894",
     "mandatory":  false,
     "notes":  "Los canales en vivo cambian y se reconectan mejor.",
-    "rollout":  10
+    "rollout":  100
 }
