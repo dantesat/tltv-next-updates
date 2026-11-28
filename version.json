@@ -1,9 +1,9 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  115,
-    "versionName":  "0.11.93",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.93/TLTVNext.apk",
-    "sha256":  "41df1bb3997dfae52d2606f03a1f8a7f66f8e2619451aa66270f60e622ec4873",
+    "versionCode":  116,
+    "versionName":  "0.11.94",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.94/TLTVNext.apk",
+    "sha256":  "13bab539f41e6d248f390e06b23541c81522d44d0ab96148a3fba89dcae5b471",
     "mandatory":  false,
     "notes":  "Mejoras listas.",
     "rollout":  10
