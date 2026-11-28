@@ -1,10 +1,10 @@
 {
     "applicationId":  "tv.tltv.next",
-    "versionCode":  114,
-    "versionName":  "0.11.92",
-    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.92/TLTVNext.apk",
-    "sha256":  "2e9840d02175798680f6876f60b18e111f625ba4f2ce857f754af3741704e92c",
+    "versionCode":  115,
+    "versionName":  "0.11.93",
+    "apkUrl":  "https://github.com/dantesat/tltv-next-updates/releases/download/v0.11.93/TLTVNext.apk",
+    "sha256":  "41df1bb3997dfae52d2606f03a1f8a7f66f8e2619451aa66270f60e622ec4873",
     "mandatory":  false,
-    "notes":  "La app prueba otra forma de reproducir cuando tu equipo no puede con un canal.",
+    "notes":  "Mejoras listas.",
     "rollout":  10
 }
