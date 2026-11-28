@@ -6,5 +6,5 @@
     "sha256":  "13bab539f41e6d248f390e06b23541c81522d44d0ab96148a3fba89dcae5b471",
     "mandatory":  false,
     "notes":  "Mejoras listas.",
-    "rollout":  10
+    "rollout":  100
 }
